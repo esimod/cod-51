@@ -1,0 +1,4 @@
+#Python: Bir Yazı İçerisindeki Tüm Harflerin Küçük Harf Olup Olmadığını Test Etmek
+#Online eğitimler için: https://www.excelsizeyeter.com/excelsizeyeter.com/udemy_giris.php adresine tıklayınız.
+kelime="selam"
+print(kelime.islower())
